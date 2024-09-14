@@ -84,9 +84,9 @@ body {
 
 button {
 	transition: all 0.3s ease;
-	margin: 100px 300px;
+	margin: 50px50px;
 	cursor: pointer;
-	padding: 50px 100px;
+	padding: 10px 20px;
 	text-align: center;
 	font-size: 20px;
 	background-color: wheat;
